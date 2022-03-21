@@ -1,0 +1,72 @@
+
+h1{
+  text-shadow: 1px 1px 2px yellowgreen;
+  margin-left: 39%;
+  text-decoration: underline;
+  border-radius: 50%;
+  
+}
+.wrapper{
+  margin-left: 40%;
+}
+.card {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.header {
+  width: 100%;
+  display: inline-flex;
+  position: absolute;
+}
+span {
+  background-color: #787878;
+  border-radius: 50%;
+  padding: 7px;
+  margin: 1% 0.5%;
+}
+.screen {
+  color: #e7e7e8;
+  padding: 69px 30px 20px 30px;
+  background-color: #554f4f;
+  font-size: xxx-large;
+  text-align: end;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+button {
+  color: #e7e7e8;
+  width: 100%;
+  padding: 20px;
+  font-size: 20px;
+  background-color: #616169;
+  border: 1px solid #25252a;
+}
+.row {
+  width: 100%;
+  display: inline-flex;
+}
+.clearBtn {
+  background-color: #414149;
+  padding: 20px 98px;
+  
+}
+.slash {
+  background-color: #fe9f0b;
+}
+
+.equal {
+  padding: 20px 106px;
+  background-color: #fe9f0b;
+}
+#displayText {
+  color: white;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 85px auto 22px 22px;
+  font-size: 30px;
+}
+allButtons{
+  border-radius: 10px;
+}
